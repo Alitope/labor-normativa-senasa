@@ -22,6 +22,23 @@ https://drive.google.com/drive/folders/1wo-0AfhHfJEEUvt6NHH9lnnKQ20og6E2
 | 10 | **Digesto SENASA – Navegación jerárquica** (captura del sitio, 26 pág., y extracción completa del 9/10/2026 vía Firecrawl) | Árbol completo del índice temático (634 nodos), URLs de listado, búsqueda y ficha | 9.2, 9.3 y `references/digesto-indice.md` |
 | 11 | **CNS – Código de Normas SENASA** (1999; 1740 pág.) | Sistema de codificación, índice general de normas con páginas, índice de palabras clave | `references/cns-indice.md` |
 
+## Criterios incorporados en la v1.1 (octubre de 2026)
+
+Surgieron de la revisión del proyecto conjunto aves-porcinos de uso restringido de fosfomicina y se adoptaron como
+reglas generales para cualquier proyecto normativo:
+
+| Criterio | Sección |
+|---|---|
+| Fundamentos actuales y ciertos; fundamento u homología; alcance subjetivo de la norma extranjera; jerarquía y articulación | 3.2, 11 |
+| Considerandos pocos, unificados y redactados por alusión | 3.2, 3.7 |
+| Detalle en el IFTEC, destinatarios (DAJ y Despacho), brevedad y tabla de correspondencia | 11, 12.F |
+| Vigencia de toda norma citada, también en comentarios, análisis y respuestas | 9.1, 13 |
+
+Fuentes verificadas para los ejemplos (25/10/2026): Reglamento (UE) 2019/6, artículos 37.5, 107 y 118 (EUR-Lex);
+Reglamento de Ejecución (UE) 2022/1255, Anexo, letra j) "derivados del ácido fosfónico" (EUR-Lex); aplicación a
+productos importados desde el 3/9/2026 (Reglamento Delegado (UE) 2023/905); RESOL-2019-1699-APN-PRES#SENASA, que
+abroga las Res. 542/2010 y 106/2013 (argentina.gob.ar/normativa).
+
 ## Convenciones de trabajo (no surgen de los PDF)
 
 Las convenciones de la sección 2 (autor de comentarios "Comentarios Senasa", nombres de archivo, versiones v1.0 /

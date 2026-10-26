@@ -40,5 +40,7 @@ Ver el prompt de personalización en `INSTRUCCIONES.md`.
 ## Historial
 
 - v1.0 (oct-2026): versión general para la DNSA, con acceso al Digesto vía Firecrawl.
+- v1.1 (oct-2026): criterios de fundamentación, considerandos por alusión, IFTEC con tabla de correspondencia y
+  verificación ampliada de vigencia. Ver `CHANGELOG.md`.
 
 Autor: Alejandro Pérez – Programa de Sanidad Porcina, DNSA – SENASA. Contenido basado en normativa pública.

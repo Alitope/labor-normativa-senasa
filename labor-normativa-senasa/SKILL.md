@@ -100,7 +100,8 @@ vigente; adaptarlos a la especie y al tema del caso, no copiarlos.
   1. marco legal (Ley 3.959, Ley 27.233: interés nacional, autoridad de aplicación, responsabilidad primaria del
      productor);
   2. antecedentes normativos del tema y por qué se modifican o reemplazan;
-  3. fundamentos técnicos y epidemiológicos (situación sanitaria, estándares de la OMSA, comercio);
+  3. fundamentos técnicos y epidemiológicos (situación sanitaria, estándares de la OMSA, comercio): primero los
+     principales y después los complementarios (ver "Fundamentación");
   4. instancias de participación (comisiones nacionales o regionales, COPROSA, entes sanitarios, consulta pública);
   5. intervenciones de las áreas.
 - Fórmulas de cierre (práctica vigente):
@@ -115,8 +116,45 @@ vigente; adaptarlos a la especie y al tema del caso, no copiarlos.
   CALIDAD AGROALIMENTARIA` / `EL DIRECTOR NACIONAL DE SANIDAD ANIMAL` + `RESUELVE:` / `DISPONE:`.
 - Variación léxica de la práctica para no repetir el nombre: "el citado / referido / mentado / aludido Servicio
   Nacional", "la mencionada Resolución N° …".
-- La parte expositiva no tiene que ser extensa salvo que la complejidad o la novedad lo justifiquen. Si el proyecto
-  puede afectar derechos subjetivos, debe constar la intervención del servicio jurídico.
+- Si el proyecto puede afectar derechos subjetivos, debe constar la intervención del servicio jurídico.
+
+**Fundamentación** (vale también para el IFTEC, sección 11)
+- **Fundamentos actuales y ciertos.** No legislar con justificativos potenciales: no fundar una norma en un acceso a
+  mercado que todavía no existe, ni en proyecciones o planes estratégicos privados, que no dan certeza sobre sus
+  metas. Si un beneficio futuro es relevante, se formula en presente y como fundamento complementario (p. ej.
+  "armonizar con las exigencias de los mercados de referencia").
+- **Fundamento u homología.** Un **fundamento** es una obligación que alcanza a la República Argentina o a sus
+  operadores; una **homología** es una exigencia equivalente a la de un mercado de referencia. No aplicar en espejo
+  reglamentaciones de mercados o de terceros países sin una justificación fuerte y directa.
+  - Antes de invocar una norma extranjera, verificar su **alcance subjetivo**: a quién obliga y qué partes se
+    extienden a terceros países. Ejemplo: el artículo 118 del Reglamento (UE) 2019/6 extiende a los operadores de
+    terceros países el artículo 107, apartado 2 (prohibición de antimicrobianos como promotores del crecimiento), y
+    la prohibición de usar los antimicrobianos designados conforme al artículo 37, apartado 5 (lista del Reglamento de
+    Ejecución (UE) 2022/1255), para los animales y productos que se exportan a la Unión; los apartados 1, 3 y 4 del
+    artículo 107 (uso prudente, profilaxis, metafilaxis) no pueden invocarse como obligación.
+  - Tampoco citar como fundamento los principios generales de buenas prácticas de producción o de ejercicio
+    profesional que contenga una norma extranjera.
+  - Verificar también la vigencia y la fecha de aplicación de la norma extranjera.
+- **Jerarquía y articulación.** Distinguir fundamentos principales y complementarios. Cuando dos fundamentos están
+  vinculados (p. ej., por una retroalimentación), explicar el vínculo en lugar de enumerarlos como independientes. En
+  una norma con varias especies o componentes, el peso de los considerandos de cada uno es proporcional a la fuerza de
+  su justificación; la asimetría es admisible si está justificada.
+
+**Redacción por alusión**
+- **Cuanto menos y mejor justificado, mejor**, no cuanto más, mejor. La parte expositiva no tiene que ser extensa
+  salvo que la complejidad o la novedad lo justifiquen. Unificar los considerandos relacionados y separarlos solo
+  cuando uno da contexto al siguiente.
+- Escribir **por alusión**, de modo que cualquier ciudadano los entienda sin conocer los procesos técnicos que
+  llevaron a esas consideraciones: sin números de controles de gestión, actas ni expedientes (el expediente va en el
+  VISTO), sin porcentajes ni cifras de detalle, sin siglas de entidades técnicas y sin citas de estudios. Las normas
+  sí se citan (sección 5). Ejemplos:
+  - En lugar de "Que los resultados del Control de Gestión CG DPYESA N° 11/2026…", escribir "Que los controles
+    sobre…, realizados por la Dirección Nacional de Sanidad Animal, arrojaron…".
+  - En lugar de "…fueron expuestos ante la Comisión [nombre], conforme consta en su Acta N° 211…", escribir "…los
+    cuales fueron expuestos ante la Comisión [nombre]…".
+- Las reuniones público-privadas (comisiones, mesas sectoriales, entes) se mencionan por alusión: son un argumento
+  jurídico de respaldo para una norma que alcanza a administrados o a terceros.
+- Todo el detalle que se quita de los considerandos va al IFTEC, con la tabla de correspondencia (sección 11).
 
 ### 3.3 Parte dispositiva: orden
 De lo general a lo particular, de lo abstracto a lo concreto, de lo normal a lo excepcional y de lo sustantivo a lo
@@ -181,7 +219,8 @@ heterogénea ("ómnibus"), el título indica su finalidad.
   `SENASA` o "el citado Servicio Nacional". Dependencias en tipo título: "la Dirección Nacional de Sanidad Animal del
   SENASA", "la Oficina Local del SENASA de la jurisdicción correspondiente".
 - `REPÚBLICA ARGENTINA`, `ORGANIZACIÓN MUNDIAL DE SANIDAD ANIMAL (OMSA)` en mayúsculas.
-- Siglas: desarrollar la primera vez (DT-e, RENSPA, SUR, REDLAB, COPROSA, etc.).
+- Siglas: desarrollar la primera vez (DT-e, RENSPA, SUR, REDLAB, COPROSA, etc.). En los considerandos, las entidades
+  técnicas se nombran completas y sin sigla (sección 3.2, "Redacción por alusión").
 
 ---
 
@@ -372,9 +411,18 @@ de causa.
      `RY` = Res. ex-SAGyP, `RE` = Res. de Secretaría de Estado, `DZ` = Disp. ex-SENASA, `DE` = Decreto, `LE` = Ley.
      En la cita final, convertir el código a la forma completa (p. ej. RZ 510/96 → "Resolución N° 510 del 26 de
      agosto de 1996 del ex-SERVICIO NACIONAL DE SANIDAD ANIMAL").
-7. **Vigencia**: confirmar con la ficha del Digesto ("Reemplaza a", "Fecha disponibles"), con Infoleg ("modificada
-   por", "abrogada por") y con la norma posterior más reciente del tema. El CNS refleja 1999. Muchas de sus normas
-   están abrogadas o reemplazadas (p. ej. Aujeszky: RZ 510/96 → Res. SAGPyA 474/09 → Res. SENASA 810/25).
+7. **Vigencia**: verificar la vigencia de **toda norma que se cite**, no solo en el VISTO: también en los
+   considerandos, el articulado, los comentarios, los análisis y las respuestas al usuario. Confirmar con la ficha
+   del Digesto ("Reemplaza a", "Fecha disponibles"), con Infoleg ("modificada por", "abrogada por") y con la norma
+   posterior más reciente del tema.
+   - La abrogación puede no figurar en la ficha de la norma abrogada: en Infoleg, la Res. 542/2010 (habilitación de
+     establecimientos avícolas) lista a la RESOL-2019-1699-APN-PRES#SENASA solo como norma que la "complementa o
+     modifica", y la abrogación consta en la ficha de la 1699/2019. Revisar también las fichas de las normas
+     posteriores del tema.
+   - Lección: un análisis del régimen de registros avícolas se hizo con la Res. 542/2010, que estaba abrogada por la
+     RESOL-2019-1699-APN-PRES#SENASA.
+   - El CNS refleja 1999. Muchas de sus normas están abrogadas o reemplazadas (p. ej. Aujeszky: RZ 510/96 → Res.
+     SAGPyA 474/09 → Res. SENASA 810/25).
 
 ### 9.2 Digesto SENASA
 
@@ -529,6 +577,23 @@ Verificar en Infoleg si hay modificaciones posteriores a 2024.
 ## 11. Informe Técnico (IFTEC)
 
 Redactarlo de forma íntegra y fundamentada, en prosa técnica y con los mismos términos que la propuesta.
+
+**Destinatarios y extensión.** El IFTEC se escribe para sus destinatarios principales: la **Dirección de Asuntos
+Jurídicos**, que valora el fundamento técnico-jurídico para dictaminar, y **Despacho**, el área dependiente de la
+Presidencia que revisa la forma y gestiona la firma y la publicación en el Boletín Oficial. Ser breve y limitarse a
+las justificaciones principales, sobre todo cuando otras áreas (p. ej. la Dirección de Productos Veterinarios) deben
+agregar texto al mismo IFTEC. Los criterios de "Fundamentación" de la sección 3.2 valen también aquí.
+
+**Detalle que viene de los considerandos.** Todo lo que se quitó de los considerandos al redactarlos por alusión
+va al IFTEC: identificación de los controles, cifras, actas, entidades, estudios con su cita, y homologías con
+normativa extranjera (indicando si cada una es fundamento u homología y su alcance).
+
+**Tabla de correspondencia** entre cada considerando redactado por alusión y el apartado del IFTEC donde está su
+detalle:
+
+| Considerando (redacción por alusión) | Apartado del IFTEC | Detalle (control, acta, cifra, estudio, norma) |
+|---|---|---|
+
 Estructura mínima (Res. 720/22, Anexo II, punto 5):
 
 **5.1 Identificación**: actividad a regular o norma a actualizar. Indicar si afecta otras normas (abroga, sustituye,
@@ -559,7 +624,7 @@ finalidad.
 Conviene apoyar el 5.2 y el 5.3 con:
 - datos epidemiológicos (brotes, prevalencia, estatus de los establecimientos según los sistemas del SENASA);
 - estándares de la OMSA (capítulo y artículo del Código Terrestre o del Código Acuático);
-- impacto comercial y en las negociaciones sanitarias;
+- impacto comercial y en las negociaciones sanitarias, actual y no potencial (sección 3.2, "Fundamentación");
 - consensos de las comisiones o ámbitos consultivos del tema;
 - costo para el productor y para el SENASA.
 
@@ -600,7 +665,7 @@ Sección 8. Entregables: tabla de correspondencia, borrador con comentarios de o
 5. Antes de editar, listar los cambios propuestos.
 
 **F. Informe Técnico y antecedentes**
-Sección 10 y sección 11.
+Sección 10 y sección 11, con la tabla de correspondencia entre los considerandos y el IFTEC.
 
 **Archivos Word**: usar la skill o herramienta de .docx disponible. El control de cambios y los comentarios deben
 ser nativos de Word (autor "Comentarios Senasa"), no texto coloreado.
@@ -612,6 +677,12 @@ ser nativos de Word (autor "Comentarios Senasa"), no texto coloreado.
 - [ ] Rango y autoridad firmante correctos. Competencia citada en el último considerando.
 - [ ] VISTO completo, en orden jerárquico y cronológico, con citas completas sin número de Boletín Oficial.
 - [ ] Considerandos con "Que…" y punto final; intervenciones de las áreas y de la DAJ; "Por ello,".
+- [ ] Fundamentos actuales y ciertos (sin accesos a mercados potenciales ni planes privados); fundamento distinguido
+      de homología; alcance subjetivo y vigencia de las normas extranjeras verificados; principales y
+      complementarios jerarquizados y articulados.
+- [ ] Considerandos por alusión: pocos y bien justificados, sin números de controles, actas ni expedientes, sin
+      porcentajes, siglas de entidades técnicas ni citas de estudios.
+- [ ] IFTEC breve, con el detalle de los considerandos y la tabla de correspondencia.
 - [ ] Artículos: 1° a 9° ordinales y desde 10 cardinales; epígrafes en todos salvo el de forma; incisos, apartados y
       subapartados con la nomenclatura del equipo.
 - [ ] Secciones en mayúsculas sin numerar; las prescripciones finales en su sección.
@@ -622,6 +693,7 @@ ser nativos de Word (autor "Comentarios Senasa"), no texto coloreado.
 - [ ] Modificaciones sobre la norma originaria, con el verbo correcto y sin renumerar.
 - [ ] Derogaciones y abrogaciones explícitas y exhaustivas, sin "en cuanto se oponga".
 - [ ] Infracciones (Ley 27.233, Cap. V; Decreto 776/19; Res. MAGyP 38/12), vigencia y artículo de forma.
-- [ ] Vigencia de todas las normas citadas verificada, con la fuente y la fecha de consulta.
+- [ ] Vigencia de todas las normas citadas verificada (también en comentarios, análisis y respuestas), con la
+      fuente y la fecha de consulta.
 - [ ] Marcadores pendientes listados al final (EX, IF, datos, competencia).
 - [ ] Nombre de archivo y versión según la convención.
